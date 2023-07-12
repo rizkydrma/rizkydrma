@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rizky Darma Razak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rizky Darma Razak — looking for a job as a Frontend Engineer for Fulltime/Parttime 💻</h1>
+<p align="left">A passionate Frontend Engineer with 1+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizky-darma-28b05b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizky-darma-28b05b208/" height="30" width="40" /></a>
-<a href="https://instagram.com/rizkydrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkydrma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rizkydrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizkydrma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizky-darma-28b05b208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizky-darma-28b05b208/" height="20" width="30" /></a>
+<a href="https://instagram.com/rizkydrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkydrma" height="20" width="30" /></a>
+<a href="https://www.youtube.com/c/rizkydrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizkydrma" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
