@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizky Darma Razak — looking for a job as a Frontend Engineer for Fulltime/Parttime 💻</h1>
+<h5 5align="center">Hi 👋, I'm Rizky Darma Razak — looking for a job as a Frontend Engineer for Fulltime/Parttime 💻</h1>
 <p align="left">A passionate Frontend Engineer with 1+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
