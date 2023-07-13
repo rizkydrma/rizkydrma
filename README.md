@@ -8,7 +8,7 @@
 
 
 Technologies I've been learning and using so far : <br /> <br />
-    [![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white)]()
+    [![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white&logoWidth=30)]()
     [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
     [![Next.js](https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white)]()
     [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
