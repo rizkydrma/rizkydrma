@@ -3,14 +3,15 @@
 <p align="left">A passionate Frontend Engineer with 1+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-darma-28b05b208/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rizkydrma)
 
 
 Technologies I've been learning and using so far : <br /> <br />
-    [![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white&logoWidth=40)]()
-    [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=40)]()
-    [![Next.js](https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white&logoWidth=40)]()
+    [![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white&logoWidth=50)]()
+    [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=50)]()
+    [![Next.js](https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white&logoWidth=50)]()
     [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
     [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
     [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
