@@ -1,6 +1,6 @@
 <h3 5align="center">Hi 👋, I'm Rizky Darma Razak </h3> 
-<h3>looking for a job as a Frontend Engineer for Fulltime/Parttime/Remote 💻</h3>
-<p align="left">A passionate Frontend Engineer with 1+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
+<h3>💻 Looking for a job as a Frontend Engineer for Fulltime/Parttime/Remote</h3>
+<p align="left">A passionate Frontend Engineer with 1.5+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -9,9 +9,9 @@
 
 
 Technologies I've been learning and using so far : <br /> <br />
-    [![Remix](https://img.shields.io/badge/-Remix-000?style=flat-square&logo=Remix&logoColor=white&logoWidth=50)]()
-    [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=50)]()
-    [![Next.js](https://img.shields.io/badge/-Next-000?style=flat-square&logo=Next.js&logoColor=white&logoWidth=50)]()
+    [![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)]()
+    [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]()
+    [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white))]()
     [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
     [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
     [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
