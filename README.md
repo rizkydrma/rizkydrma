@@ -1,5 +1,5 @@
 <h3 5align="center">Hi 👋, I'm Rizky Darma Razak </h3> 
-<p align="left">A passionate Frontend Engineer with 1.5+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
+<p align="left">A passionate Frontend Engineer with 2+ years experiences, who pretty love design and code . Defined as creative thinker, highly motivated, good communication and fast learner. Experienced and deep in Javascript or Typescript, especially React.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
